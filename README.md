@@ -1,3 +1,3 @@
 # learn-script
 
-Set of algorithms for machine learning.
+A JavaScript implementation of common algorithms for machine learning.

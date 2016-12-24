@@ -1,5 +1,6 @@
 {
   "name": "learn-script",
+  "description": "A JavaScript implementation of common algorithms for machine learning",
   "version": "0.1.0",
   "license": "MIT",
   "repository": "alexeyraspopov/learn-script"

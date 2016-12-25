@@ -2,6 +2,8 @@
   "name": "learn-script",
   "description": "A JavaScript implementation of common algorithms for machine learning",
   "version": "0.1.0",
+  "main": "execution-context.js",
+  "jsnext:main": "index.js",
   "license": "MIT",
   "repository": "alexeyraspopov/learn-script",
   "devDependencies": {

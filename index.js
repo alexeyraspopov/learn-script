@@ -1,6 +1,6 @@
-import DecisionTreeClassifier from './DecisionTreeClassifier';
-import DecisionTreeRegressor from './DecisionTreeRegressor';
-import RandomForestClassifier from './RandomForestClassifier';
-import RandomForestRegressor from './RandomForestRegressor';
+import DecisionTreeClassifier from './modules/DecisionTreeClassifier';
+import DecisionTreeRegressor from './modules/DecisionTreeRegressor';
+import RandomForestClassifier from './modules/RandomForestClassifier';
+import RandomForestRegressor from './modules/RandomForestRegressor';
 
 export { DecisionTreeClassifier, DecisionTreeRegressor, RandomForestClassifier, RandomForestRegressor };
